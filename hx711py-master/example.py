@@ -43,8 +43,6 @@ def process_data(value,id):
     elif(ile==0):
         time.sleep(0.1)
         
-        #data = "Segment nr " +str(index+1) + " zawiera " + str(value.rpartition(':')[2]) + " puszek"
-        #print (int(value.rpartition(':')[2]))
         
     
 def updating(id,waga,ile):
