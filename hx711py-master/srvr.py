@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[ ]:
-
-
 #!/usr/bin/python
 import threading
 import Queue
